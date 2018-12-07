@@ -1,0 +1,25 @@
+.tropical{
+    color:#f7325e; 
+    background-color: aqua;
+    height: 300px;
+    width: 200px;
+    text-align: center;
+}
+.popular{
+    text-align: justify;
+    text-justify: inter-word;
+    padding-top: 10%;
+}
+html{
+    background-color: #f7325e
+}
+.important {
+    color: green;
+  }
+  .unimportant {
+    color: blue;
+  }
+  .cat-climate {
+    background-color: yellow;
+  }
+    
