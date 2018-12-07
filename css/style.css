@@ -1,15 +1,17 @@
-.tropical{
+.popular{
     color:#f7325e; 
     background-color: aqua;
     height: 300px;
     width: 200px;
     text-align: center;
 }
-.popular{
+.tropical{
     text-align: justify;
-    text-justify: inter-word;
-    padding-top: 10%;
-}
+    background-color: bisque;
+    height:300%;
+    text-justify: center;
+
+} 
 html{
     background-color: #f7325e
 }
